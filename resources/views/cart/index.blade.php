@@ -1,5 +1,5 @@
 @extends('layout')
-@section('title', 'Shopping Cart - MyEcommerce')
+@section('title', 'Shopping Cart')
 @section('content')
     <!-- Cart Section -->
     <section class="py-5">
